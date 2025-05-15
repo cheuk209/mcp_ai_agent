@@ -1,0 +1,41 @@
+# Node.js dependencies
+2_Resources/node_modules/
+
+# Build output
+2_Resources/dist/
+2_Resources/build/
+
+# Environment files
+2_Resources/.env*
+
+# Log files
+2_Resources/*.log
+2_Resources/npm-debug.log*
+
+# VSCode settings
+2_Resources/.vscode/
+
+# IDE settings
+2_Resources/.idea/
+
+# Coverage reports
+2_Resources/coverage/
+
+# Next.js build output
+2_Resources/.next/
+
+# TypeScript build info
+2_Resources/*.tsbuildinfo
+
+# Yarn and pnpm lock files
+2_Resources/yarn.lock
+2_Resources/pnpm-lock.yaml
+
+# macOS system files
+2_Resources/.DS_Store
+
+# Sample SMTP config (optional, if you want to keep it out of git)
+# 2_Resources/smtp_config.sample.json
+
+# Package lock (optional, usually committed)
+# 2_Resources/package-lock.json

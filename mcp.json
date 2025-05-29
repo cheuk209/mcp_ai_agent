@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "resend": {
+      "type": "command",
+      "command": "node /Users/cheuk209/dev/mcp_ai_agent/2_Resources/env/run.js --key=re_7vBHLW9F_BMxC2gs1HWhK1cMYdWUYojEU"
+    }
+  }
+}

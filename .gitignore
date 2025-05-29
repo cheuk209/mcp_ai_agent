@@ -39,3 +39,5 @@
 
 # Package lock (optional, usually committed)
 # 2_Resources/package-lock.json
+
+2_Resources/env/node_modules
